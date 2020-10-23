@@ -4,3 +4,19 @@ void a() {
      codigo3;
      codigo4;
 }
+void d() {
+     codigo1;
+     codigo2;
+     codigo3;
+     codigo4;
+
+     codigo espefico de d;
+}
+void e() {
+     codigo1;
+     codigo2;
+     codigo3;
+     codigo4;
+
+     codigo espefico de e;
+}
