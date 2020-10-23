@@ -4,7 +4,6 @@ void a() {
      codigo3;
      codigo4;
 }
-
 void b() {
      codigo1;
      codigo2;
@@ -13,7 +12,6 @@ void b() {
 
      codigo diferente de b;
 }
-
 void c() {
      codigo1;
      codigo2;
