@@ -1,0 +1,6 @@
+void a() {
+     codigo1;
+     codigo2;
+     codigo3;
+     codigo4;
+}
